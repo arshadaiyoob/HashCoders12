@@ -14,4 +14,4 @@ python hashCode.py
 Izzath Imthiyaz, 
 Idrees Nafly
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[a relative link](LICENSE.md)
