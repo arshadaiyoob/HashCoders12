@@ -13,3 +13,5 @@ python hashCode.py
 ## Contributers
 Izzath Imthiyaz, 
 Idrees Nafly
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
